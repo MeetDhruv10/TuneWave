@@ -7,12 +7,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDXb8t6663WcziLy-jpEy4Ml7clVgkt_bA",
-  authDomain: "tunewave-admin.firebaseapp.com",
-  projectId: "tunewave-admin",
-  storageBucket: "tunewave-admin.appspot.com",
-  messagingSenderId: "603056216656",
-  appId: "1:603056216656:web:ea48b5ed01f5d5353ecf55"
+  apiKey: "XYZ",
+  authDomain: "XYZ",
+  projectId: "XYZ",
+  storageBucket: "XYZ",
+  messagingSenderId: "XYZ",
+  appId: "XYZ"
 };
 
 // Initialize Firebase
